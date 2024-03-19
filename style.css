@@ -12,3 +12,10 @@ body{
     color: var(--branco);
     font-family:'chakra petch', sans-serif;
 }
+.conteudo-principal{
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    width:100%;
+    margin: 0 auto;
+}
